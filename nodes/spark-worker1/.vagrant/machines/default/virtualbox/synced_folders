@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant_data":{"guestpath":"/vagrant_data","hostpath":"/home/daniel/Vagrant/data","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/daniel/Vagrant/spark-worker1","disabled":false}}}
