@@ -6,5 +6,5 @@ install:
   - sudo apt-get install virtualbox
   - sudo apt-get install vagrant
 script:
-  - cd /home/travis/d-grana/vagrant-spark-cluster
+  - cd /nodes
   - ls
