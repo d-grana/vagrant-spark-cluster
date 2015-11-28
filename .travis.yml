@@ -1,11 +1,9 @@
 language: ruby
-
+rvm:
+  - "1.9.3"
 install:
-
   - sudo apt-get update
   - sudo apt-get install virtualbox
   - sudo apt-get install vagrant
-
 script:
-
   - ls
