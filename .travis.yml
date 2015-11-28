@@ -6,4 +6,4 @@ install:
   - sudo apt-get install virtualbox
   - sudo apt-get install vagrant
 script:
-  - cd /home/travis/nodes/spark-worker1
+  - cd /home/travis/
